@@ -36,9 +36,6 @@ def TestLimits(polyformatted, lowerlim, upperlim, resultlow, resulthigh): # Test
 			resultlow = resultlow + ((lowerlim ** a[0]) * a[1])
 			resulthigh = resulthigh + (upperlim ** a[0] * a[1])
 	
-	print("rl: " + str(resultlow))
-	print("rh: " + str(resulthigh))
-	
 	if (resultlow >= 0 and resulthigh < 0) or (resulthigh >= 0 and resultlow < 0):
 		limitsvalid = 1
 	else: 
