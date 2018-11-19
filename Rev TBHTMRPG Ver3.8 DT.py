@@ -1,4 +1,5 @@
 #Text Based Hockey Team Management RPG, Tiana Tsang Ung, Last modified: 16/11/2018
+#Demonstration version, skips team creation stage
 
 import random 
 
