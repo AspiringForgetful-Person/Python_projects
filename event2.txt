@@ -1,0 +1,4 @@
+During a game, the opposition constantly makes dirty plays which go uncalled by the referees, you react by:
+Yelling insults at the referees from the bench.,1,-2,You are ejected from the game.
+Picking a fight with the opposition's coach.,-2,3,You are ejected from the game.
+Sending out a player to return the favour.,1,1,The players begin to fight but the game seems go smoothly after.

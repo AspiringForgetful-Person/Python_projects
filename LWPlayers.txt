@@ -1,0 +1,10 @@
+1,Alex Ovechkin
+2,Johnny Gaudreau
+3,Claude Giroux
+4,Taylor Hall
+5,Chris Kreider
+6,Jonathan Huberdeau
+7,Max Pacioretty
+8,Filip Forsberg
+9,Matthew Tkachuk
+10,Jonathan Marchessault

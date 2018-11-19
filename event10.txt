@@ -1,0 +1,4 @@
+At a game you hear fans insulting you from behind the glass,you react by:
+Insulting them back.,-2,1,The fans get even more worked up.
+Pretending you didnt hear them.,1,0,They eventually get bored and stop bothering you.
+Staring them down until they stop.,2,0,The fans don't dare to speak as you glare at them.

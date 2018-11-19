@@ -1,0 +1,4 @@
+The Captain of your team suggests a new training approach, you decide to:
+Continue conducting your training as usual.,-1,2,The Captain makes no comment.
+Agree to try the new training approach.,2,-2,Training does not go smoothly but the Captain appears to be pleased.
+Ask the assistant coach for their opinion and act accordingly.,0,1,After a discussion you decide to modify your current training approach.

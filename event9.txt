@@ -1,0 +1,4 @@
+Your franchise player with an expiring contract requests you make changes to the staff if you wish for them to remain, you react by:
+Agreeing to meet the player's requests and attempting to resign the player as their contract ends.,0,-5,The player has not renewed their contract and has left for another team.
+Doing nothing.,-1,-2,The player has not renewed their contract and has left for another team.
+Trading them to another team before the trade deadline.,-1,2,You recieve some decent prospects in return for the franchise player.

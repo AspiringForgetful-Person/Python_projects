@@ -1,0 +1,10 @@
+1,Nikita Kucherov 
+2,Phil Kessel 
+3,Patrick Kane
+4,Brock Boeser
+5,Mats Zucarello 
+6,Brendan Gallagher
+7,Viktor Arvidsson 
+8,Alexander Radulov
+9,Blake Wheeler 
+10,Tyler Seguin 

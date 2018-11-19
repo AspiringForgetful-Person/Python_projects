@@ -1,0 +1,4 @@
+When a violent game occurs, you decide to lash out on the opposition's coach by:
+Posting an insulting comment about the other coach on social media,-2,0,Public opinion on you has decreased.
+Storming the other team's locker room post game,-3,1,You are held back by players and staff as you try to get at the other coach in fury.
+Starting an argument by yelling across to the opposition's bench,-1,2,Your crazed argument makes it into a youtube "angry coaches" compliation.

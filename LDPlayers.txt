@@ -1,0 +1,10 @@
+1,Erik Karlsson
+2,Kris Letang 
+3,Brett Burns 
+4,Tyson Barrie 
+5,Ryan Ellis 
+6,Shea Weber 
+7,Aaron Ekblad 
+8,Ryan McDonagh 
+9,Ivan Provorov 
+10,P.K. Subban 

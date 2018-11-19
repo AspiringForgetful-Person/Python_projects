@@ -1,0 +1,10 @@
+1,Ryan Suter 
+2,Mark Giordano
+3,Victor Hedman
+4,Drew Doughty 
+5,Torey Krug
+6,Shayne Gostisbehere
+7,Dustin Byfuglien
+8,Keith Yandle
+9,Charlie McAvoy
+10,Kevin Shattenkirk

@@ -1,0 +1,4 @@
+The media asks for your comment on the team's recent loss, you decide to:
+State that the other team won because they scored more goals.,0,0,The reporters look at you strangely.
+Respond with the same generic phrase you repeat after every loss.,0,1,Fans mock your comment on social media.
+Accuse your goalie of match fixing.,-2,-2,Fans take to social media to complain about your comment and your goalie is also unhappy with you.

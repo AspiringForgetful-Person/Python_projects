@@ -1,0 +1,4 @@
+You notice that the defense pairings do not seem to be working well together, you attempt to resolve this by:
+Not making any changes and hoping that the pairs will improve as time progresses.,0,1,The defensive pairs improve slightly over time.
+Scheduling a team bonding exercise.,2,0,The exercise does not seem to help performance but the players are happier.
+Switching the defensive pairings around frequently until improvement is observed.,-2,2,The players are unhappy about the changes but seem to perform better.

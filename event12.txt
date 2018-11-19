@@ -1,0 +1,4 @@
+You notice that the players are unmotivated during training after the loss, you decide to:
+Force all players to do suicide runs across the ice until they throw up.,1,0,The next training progresses as normal.
+Spend 10 minutes yelling at them and tell them to get their act together.,-1,3,Your players are displeased but appear to pick up their game after.
+Cancel the training session.,4,-1,Your players are pleased after the short break but do not perform well at the next game.

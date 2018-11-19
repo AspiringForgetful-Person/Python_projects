@@ -1,0 +1,4 @@
+You decide to book a place for the team dinner after the game, you book:
+A cheap all-you-can-eat buffet.,0,0,The meal is okay.
+A fancy 3 course meal at a nearby hotel.,2,1,Your wallet is empty but everyone is pleased.
+A plantbased meal at a trendy salad bar.,-2,3,Your players are displeased but their performances increases.

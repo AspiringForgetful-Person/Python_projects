@@ -1,0 +1,4 @@
+You are contacted by another team regarding trade offer and believe the deal is in your favour, you decide to:
+Decline the offer.,0,0,Nothing happens.
+Accept their offer and exchange players immediately.,-1,3,Your team is unhappy about the sudden changes but you accquire a better player from the trade.
+Inform the team captain then make the trade.,-2,4,The Captain dislikes the trade offer and is annoyed that you went through with it despite his efforts.

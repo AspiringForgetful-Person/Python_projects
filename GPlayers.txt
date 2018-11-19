@@ -1,0 +1,10 @@
+1,Henrik Lunqvist
+2,Pekka Rinne
+3,Carey Price
+4,Jonathan Quick
+5,Cam Talbot 
+6,Marc-Andre Fluery
+7,Tuukka Rask
+8,Antti Raanta 
+9,Sergei Bobrovsky
+10,Michal Neuvirth

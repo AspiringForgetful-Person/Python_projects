@@ -1,0 +1,4 @@
+The staff budget has increased, with the extra money you:
+Take the whole team out for dinner and then secretly pocket the rest.,-3,2,Your staff seem to look at you strangely but the players are pleased.
+Hire a dietician and another chef for the team.,3,1,The team is pleased and seem to perform slightly better with the new diet plan.
+Increase the salary of the assistant coaches.,-1,3,The other staff complain but the players begin to perform better.

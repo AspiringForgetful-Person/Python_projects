@@ -1,0 +1,4 @@
+Before the next game, you encourage the team to play well by:
+Blasting music in the locker room.,0,3,The music gets the players excited for the game.
+Threatening to replace players with younger talent if they don't do well.,-1,0,The players dismiss your threats and play as usual.
+Giving them a 10 minute long speech about a player you used to coach.,0,1,The speech seems to help your players a little.

@@ -1,0 +1,10 @@
+1,Crosby
+2,Connor McDavid
+3,Steven Stamkos
+4,Auston Matthews
+5,Jack Eichel
+6,Henrik Zetterberg
+7,Evgeni Malkin
+8,Patrice Bergeron 
+9,Blake Wheeler 
+10,Nicklas Backstrom 
