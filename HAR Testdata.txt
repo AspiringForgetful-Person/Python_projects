@@ -1,9 +1,0 @@
-test data 
-
-polynomial: 8x^3 - 15x^2 - x + 6  
-root range: 1,2
-expected output: 
-
-polynomial: x^3 - 3x - 20
-root range: 3,3.1
-expected output: 3.08

@@ -1,0 +1,6 @@
+Test Data for Halving the Interval: 
+
+polynomial: x^3 - 3x - 20
+root range: 3,3.1
+no. of applications: 5
+expected output: ~3.08
